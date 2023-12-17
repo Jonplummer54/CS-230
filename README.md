@@ -1,2 +1,9 @@
 # CS-230
 operating_platforms
+The Gaming Room approached us with an exciting project: they wanted a web-based game modeled after the classic "Win, Lose or Draw." The game, named "Draw It or Lose It," required a setup where multiple teams and players could participate in unique game instances, focusing heavily on real-time interaction and image-based puzzle solving. They emphasized the need for managing a single game instance at a time, ensuring unique names for games and teams, and keeping the door open for future expansions.
+
+In crafting the documentation for this project, I believe my strongest suit was the detailed, object-oriented approach. The Java-based structure I proposed was both modular and scalable, fitting perfectly with the client's vision. The implementation of a singleton pattern for managing the game instance and the intricate relationships between the classes for players and teams were highlights, closely mirroring what the client needed.
+
+Navigating through the design document was a crucial step in bridging the gap between abstract requirements and concrete coding. It served as a roadmap, clarifying how different parts of the system would come together. If I had to pick one area for improvement, it would be to add more real-life scenarios or use cases. This would give a clearer picture of how users would interact with the system, enhancing the practicality of the design.
+
+Understanding and integrating the client's and end-users' needs into the software design was a top priority. This user-centric approach is essential; it ensures that the final product isn't just technically proficient but also resonates with its users. For similar projects in the future, I'd like to incorporate more direct feedback from potential users and conduct prototype testing. This would fine-tune my understanding of user expectations and improve the overall design process.
